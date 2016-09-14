@@ -4,6 +4,7 @@ Version: v0.9.2 beta
   <img src="https://cloud.githubusercontent.com/assets/4301109/14958530/d5fb36ac-10a8-11e6-93b9-8859fd0158b6.png">
 </p>
 
+Drozer是MWR Labs开发的一个开源Android 安全测试框架，支持编写自定义模块。目前已经有不少介绍Drozer文章，这里就不多说了。 
 
 Mobile Security Framework (MobSF) is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static and dynamic analysis. It can be used for effective and fast security analysis of Android and iOS Applications and supports both binaries (APK &amp; IPA) and zipped source code. MobSF can also perform Web API Security testing with it's API Fuzzer that can do Information Gathering, analyze Security Headers, identify Mobile API specific vulnerabilities like XXE, SSRF, Path Traversal, IDOR, and other logical issues related to Session and API Rate Limiting.
 
